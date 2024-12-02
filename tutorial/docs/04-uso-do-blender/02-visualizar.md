@@ -1,4 +1,4 @@
-# Visualizar e Manipular View
+# Visualizar
 
 ## Toogle de visualização em 4 Views
 - `CTRL` `ALT` `Q` -- Toggle Quad View
@@ -28,14 +28,6 @@
 - `Z` `8` -- Rendered
 - `Select Object`/`Menu Object`/`Shade Smooth` -- Shade Smooth
 - `Select Object`/`Menu Object`/`Shade Flat` -- Shade Flat
-
-## Movimentar View:
- - `SHFT` `Trackpad-DRAG-2-fingers` -- PAN the view
-    - `SHFT` `MMB-CLICK-DRAG`
-- `Trackpad-DRAG-2-fingers` -- ROTATE the view
-    - `MMB-CLICK-DRAG`-- ROTATE the view
-- `Trackpad-DRAG-2-fingers-diagonal` -- ZOOM the view
-    - `MMB-SCROLL`-- ZOOM the view
 
 ## Ocultação (hide)
 - `SELECT OBJECT` `H` -- Ocultar objeto selecionado.

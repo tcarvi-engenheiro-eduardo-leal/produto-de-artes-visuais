@@ -121,7 +121,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `${new Date().toLocaleDateString("pt-BR")} ©TCARVI`,
+      copyright: `atualizado em  ${new Date().toLocaleDateString("pt-BR")} ©TCARVI`,
     },
     prism: {
       theme: prismThemes.github,
