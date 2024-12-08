@@ -53,9 +53,9 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'engenharia-estrutural',
+      title: 'projeto-de-artes-visuais',
       logo: {
-        alt: 'engenharia-estrutural',
+        alt: 'projeto-de-artes-visuais',
         src: 'img/logo.svg',
       },
       items: [
