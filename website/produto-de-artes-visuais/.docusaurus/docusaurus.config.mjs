@@ -5,12 +5,12 @@
  */
 export default {
   "title": "Tutoriais de Artes Visuais com Blender",
-  "tagline": "projeto-de-artes-visuais",
+  "tagline": "produto-de-artes-visuais",
   "favicon": "img/favicon.ico",
   "url": "https://blender-artes-visuais.web.app",
   "baseUrl": "/",
   "organizationName": "tcarvi-engenheiro-eduardo-leal",
-  "projectName": "projeto-de-artes-visuais",
+  "projectName": "produto-de-artes-visuais",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -42,11 +42,11 @@ export default {
             null
           ],
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/"
+          "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/produto-de-artes-visuais/edit/main/tutorial/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/"
+          "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/produto-de-artes-visuais/edit/main/tutorial/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -57,9 +57,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "projeto-de-artes-visuais",
+      "title": "produto-de-artes-visuais",
       "logo": {
-        "alt": "projeto-de-artes-visuais",
+        "alt": "produto-de-artes-visuais",
         "src": "img/logo.svg"
       },
       "items": [
@@ -75,7 +75,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais",
+          "href": "https://github.com/tcarvi-engenheiro-eduardo-leal/produto-de-artes-visuais",
           "label": "GitHub",
           "position": "right"
         }
@@ -120,7 +120,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais"
+              "href": "https://github.com/tcarvi-engenheiro-eduardo-leal/produto-de-artes-visuais"
             }
           ]
         }
