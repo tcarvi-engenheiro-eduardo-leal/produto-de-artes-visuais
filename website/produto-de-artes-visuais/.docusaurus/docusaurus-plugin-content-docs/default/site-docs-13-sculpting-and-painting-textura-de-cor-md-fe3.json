@@ -1,0 +1,24 @@
+{
+  "id": "sculpting-and-painting/textura-de-cor",
+  "title": "Textura de Cor",
+  "description": "- Shading tab",
+  "source": "@site/docs/13-sculpting-and-painting/textura-de-cor.md",
+  "sourceDirName": "13-sculpting-and-painting",
+  "slug": "/sculpting-and-painting/textura-de-cor",
+  "permalink": "/docs/sculpting-and-painting/textura-de-cor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/13-sculpting-and-painting/textura-de-cor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Processamento de Cores",
+    "permalink": "/docs/sculpting-and-painting/processamento-de-cores"
+  },
+  "next": {
+    "title": "Fluxo de Trabalho",
+    "permalink": "/docs/animating-and-rigging/etapa0-fluxo-de-trabalho"
+  }
+}

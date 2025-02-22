@@ -1,0 +1,25 @@
+{
+  "id": "conceitos-gerais/source-code",
+  "title": "Source Code",
+  "description": "- Install xcode tools",
+  "source": "@site/docs/01-conceitos-gerais/02-source-code.md",
+  "sourceDirName": "01-conceitos-gerais",
+  "slug": "/conceitos-gerais/source-code",
+  "permalink": "/docs/conceitos-gerais/source-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/01-conceitos-gerais/02-source-code.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blender",
+    "permalink": "/docs/conceitos-gerais/blender"
+  },
+  "next": {
+    "title": "Blender File Structure",
+    "permalink": "/docs/arquitetura-do-aplicativo-blender/blender-file-structure"
+  }
+}

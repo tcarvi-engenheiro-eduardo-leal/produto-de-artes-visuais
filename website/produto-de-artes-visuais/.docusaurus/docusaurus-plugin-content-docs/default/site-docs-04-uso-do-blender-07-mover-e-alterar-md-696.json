@@ -1,0 +1,25 @@
+{
+  "id": "uso-do-blender/mover-e-alterar",
+  "title": "mover-e-alterar-a-selecao",
+  "description": "Mover",
+  "source": "@site/docs/04-uso-do-blender/07-mover-e-alterar.md",
+  "sourceDirName": "04-uso-do-blender",
+  "slug": "/uso-do-blender/mover-e-alterar",
+  "permalink": "/docs/uso-do-blender/mover-e-alterar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/04-uso-do-blender/07-mover-e-alterar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Localização para Transform",
+    "permalink": "/docs/uso-do-blender/localizacao-para-transform"
+  },
+  "next": {
+    "title": "editar",
+    "permalink": "/docs/uso-do-blender/editar"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-concept-art-storyboard-3D",
+  "title": "Concept Art - Storyboard 3D",
+  "description": "- Source//www.blender.org/user-stories/the-future-of-storyboarding-blender-for-pre-production/",
+  "source": "@site/docs/05-pipelines/03-pipeline-concept-art-storyboard-3D.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-concept-art-storyboard-3D",
+  "permalink": "/docs/pipelines/pipeline-concept-art-storyboard-3D",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/03-pipeline-concept-art-storyboard-3D.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concept Art - Storyboard 2D",
+    "permalink": "/docs/pipelines/pipeline-concept-art-storyboard-2D"
+  },
+  "next": {
+    "title": "Concept Art - Cinematic",
+    "permalink": "/docs/pipelines/pipeline-concept-art-cinematic"
+  }
+}

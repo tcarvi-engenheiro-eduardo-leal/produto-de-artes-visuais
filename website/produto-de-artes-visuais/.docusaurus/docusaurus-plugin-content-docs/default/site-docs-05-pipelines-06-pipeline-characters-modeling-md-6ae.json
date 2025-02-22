@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-characters-modeling",
+  "title": "Characters Modeling",
+  "description": "- Meshes",
+  "source": "@site/docs/05-pipelines/06-pipeline-characters-modeling.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-characters-modeling",
+  "permalink": "/docs/pipelines/pipeline-characters-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/06-pipeline-characters-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Layout",
+    "permalink": "/docs/pipelines/pipeline-layout"
+  },
+  "next": {
+    "title": "Props Modeling",
+    "permalink": "/docs/pipelines/pipeline-props-modeling"
+  }
+}

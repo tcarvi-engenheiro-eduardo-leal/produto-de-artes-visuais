@@ -1,0 +1,25 @@
+{
+  "id": "uso-do-blender/workspace",
+  "title": "Workspace",
+  "description": "Workspace storyboard:",
+  "source": "@site/docs/04-uso-do-blender/01-workspace.md",
+  "sourceDirName": "04-uso-do-blender",
+  "slug": "/uso-do-blender/workspace",
+  "permalink": "/docs/uso-do-blender/workspace",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/04-uso-do-blender/01-workspace.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Interface",
+    "permalink": "/docs/ambiente-de-trabalho/user-interface"
+  },
+  "next": {
+    "title": "Visualizar",
+    "permalink": "/docs/uso-do-blender/visualizar"
+  }
+}

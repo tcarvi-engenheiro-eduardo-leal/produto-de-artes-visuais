@@ -1,0 +1,28 @@
+{
+  "id": "rendering/etapa2-producao-insumos",
+  "title": "Etapa 2 - Produção (Insumos para Modelagem)",
+  "description": "Cadastramento do Cenário",
+  "source": "@site/docs/17-rendering/etapa2-producao-insumos.md",
+  "sourceDirName": "17-rendering",
+  "slug": "/rendering/etapa2-producao-insumos",
+  "permalink": "/docs/rendering/etapa2-producao-insumos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/17-rendering/etapa2-producao-insumos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Etapa 2 - Produção (Insumos para Modelagem)",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 1 - Pré-Produção",
+    "permalink": "/docs/rendering/etapa1-pre-producao"
+  },
+  "next": {
+    "title": "Etapa 3 - Produção",
+    "permalink": "/docs/rendering/etapa3-producao"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "animating-and-rigging/etapa0-fluxo-de-trabalho",
+  "title": "Fluxo de Trabalho",
+  "description": "Pensar nos cenários e nos objetos",
+  "source": "@site/docs/14-animating-and-rigging/etapa0-fluxo-de-trabalho.md",
+  "sourceDirName": "14-animating-and-rigging",
+  "slug": "/animating-and-rigging/etapa0-fluxo-de-trabalho",
+  "permalink": "/docs/animating-and-rigging/etapa0-fluxo-de-trabalho",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/14-animating-and-rigging/etapa0-fluxo-de-trabalho.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluxo de Trabalho",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Textura de Cor",
+    "permalink": "/docs/sculpting-and-painting/textura-de-cor"
+  },
+  "next": {
+    "title": "Etapa 1 - Pré-Produção",
+    "permalink": "/docs/animating-and-rigging/etapa1-pre-producao"
+  }
+}

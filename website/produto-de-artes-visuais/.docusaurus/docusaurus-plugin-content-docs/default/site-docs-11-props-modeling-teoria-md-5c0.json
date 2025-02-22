@@ -1,0 +1,24 @@
+{
+  "id": "props-modeling/teoria",
+  "title": "Teoria",
+  "description": "- Blender’s comprehensive array of modeling tools make creating, transforming, sculpting and editing your models a breeze.",
+  "source": "@site/docs/11-props-modeling/teoria.md",
+  "sourceDirName": "11-props-modeling",
+  "slug": "/props-modeling/teoria",
+  "permalink": "/docs/props-modeling/teoria",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/11-props-modeling/teoria.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teoria",
+    "permalink": "/docs/characters-modeling/teoria"
+  },
+  "next": {
+    "title": "Teoria",
+    "permalink": "/docs/environment-modeling/teoria"
+  }
+}

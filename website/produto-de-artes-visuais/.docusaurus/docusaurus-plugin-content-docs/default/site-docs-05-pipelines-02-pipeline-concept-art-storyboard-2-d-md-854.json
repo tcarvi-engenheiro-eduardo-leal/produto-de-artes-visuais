@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-concept-art-storyboard-2D",
+  "title": "Concept Art - Storyboard 2D",
+  "description": "- Concept Art",
+  "source": "@site/docs/05-pipelines/02-pipeline-concept-art-storyboard-2D.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-concept-art-storyboard-2D",
+  "permalink": "/docs/pipelines/pipeline-concept-art-storyboard-2D",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/02-pipeline-concept-art-storyboard-2D.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pipelines",
+    "permalink": "/docs/pipelines/pipelines"
+  },
+  "next": {
+    "title": "Concept Art - Storyboard 3D",
+    "permalink": "/docs/pipelines/pipeline-concept-art-storyboard-3D"
+  }
+}

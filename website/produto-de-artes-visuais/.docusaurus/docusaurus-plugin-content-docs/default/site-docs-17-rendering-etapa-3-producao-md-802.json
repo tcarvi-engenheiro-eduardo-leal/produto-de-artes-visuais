@@ -1,0 +1,28 @@
+{
+  "id": "rendering/etapa3-producao",
+  "title": "Etapa 3 - Produção",
+  "description": "Modelagem",
+  "source": "@site/docs/17-rendering/etapa3-producao.md",
+  "sourceDirName": "17-rendering",
+  "slug": "/rendering/etapa3-producao",
+  "permalink": "/docs/rendering/etapa3-producao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/17-rendering/etapa3-producao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Etapa 3 - Produção",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 2 - Produção (Insumos para Modelagem)",
+    "permalink": "/docs/rendering/etapa2-producao-insumos"
+  },
+  "next": {
+    "title": "Etapa 4 - Pós-Produção",
+    "permalink": "/docs/rendering/etapa4-pos-producao"
+  }
+}

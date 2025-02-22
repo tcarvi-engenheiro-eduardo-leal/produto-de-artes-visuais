@@ -1,0 +1,25 @@
+{
+  "id": "arquitetura-do-aplicativo-blender/context",
+  "title": "Context",
+  "description": "- Context Documentation",
+  "source": "@site/docs/02-arquitetura-do-aplicativo-blender/02-context.md",
+  "sourceDirName": "02-arquitetura-do-aplicativo-blender",
+  "slug": "/arquitetura-do-aplicativo-blender/context",
+  "permalink": "/docs/arquitetura-do-aplicativo-blender/context",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/02-arquitetura-do-aplicativo-blender/02-context.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blender File Structure",
+    "permalink": "/docs/arquitetura-do-aplicativo-blender/blender-file-structure"
+  },
+  "next": {
+    "title": "Transformation",
+    "permalink": "/docs/arquitetura-do-aplicativo-blender/transformation"
+  }
+}

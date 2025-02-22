@@ -1,0 +1,24 @@
+{
+  "id": "concept-art-cinematic/etapa0-fluxo-de-trabalho",
+  "title": "Fluxo de Trabalho",
+  "description": "Pensar nos cenários e nos objetos",
+  "source": "@site/docs/08-concept-art-cinematic/etapa0-fluxo-de-trabalho.md",
+  "sourceDirName": "08-concept-art-cinematic",
+  "slug": "/concept-art-cinematic/etapa0-fluxo-de-trabalho",
+  "permalink": "/docs/concept-art-cinematic/etapa0-fluxo-de-trabalho",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/08-concept-art-cinematic/etapa0-fluxo-de-trabalho.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "etapa4-pos-producao",
+    "permalink": "/docs/concept-art-storyboard-3d/etapa4-pos-producao"
+  },
+  "next": {
+    "title": "Etapa 1 - Pré-Produção",
+    "permalink": "/docs/concept-art-cinematic/etapa1-pre-producao"
+  }
+}

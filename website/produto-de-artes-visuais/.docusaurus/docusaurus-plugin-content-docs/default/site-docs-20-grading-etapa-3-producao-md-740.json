@@ -1,0 +1,28 @@
+{
+  "id": "grading/etapa3-producao",
+  "title": "Etapa 3 - Produção",
+  "description": "Modelagem",
+  "source": "@site/docs/20-grading/etapa3-producao.md",
+  "sourceDirName": "20-grading",
+  "slug": "/grading/etapa3-producao",
+  "permalink": "/docs/grading/etapa3-producao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/20-grading/etapa3-producao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Etapa 3 - Produção",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 2 - Produção (Insumos para Modelagem)",
+    "permalink": "/docs/grading/etapa2-producao-insumos"
+  },
+  "next": {
+    "title": "Etapa 4 - Pós-Produção",
+    "permalink": "/docs/grading/etapa4-pos-producao"
+  }
+}

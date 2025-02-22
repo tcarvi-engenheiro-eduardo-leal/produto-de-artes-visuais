@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-props-modeling",
+  "title": "Props Modeling",
+  "description": "- Translation: \"adereços de objetos ou de roupas\"",
+  "source": "@site/docs/05-pipelines/07-pipeline-props-modeling.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-props-modeling",
+  "permalink": "/docs/pipelines/pipeline-props-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/07-pipeline-props-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Characters Modeling",
+    "permalink": "/docs/pipelines/pipeline-characters-modeling"
+  },
+  "next": {
+    "title": "Environment Modeling",
+    "permalink": "/docs/pipelines/pipeline-environments-modeling"
+  }
+}

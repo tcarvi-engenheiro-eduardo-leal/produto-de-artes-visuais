@@ -1,0 +1,24 @@
+{
+  "id": "sculpting-and-painting/processamento-de-cores",
+  "title": "Processamento de Cores",
+  "description": "Operations on PRIMARY COLORS:",
+  "source": "@site/docs/13-sculpting-and-painting/processamento-de-cores.md",
+  "sourceDirName": "13-sculpting-and-painting",
+  "slug": "/sculpting-and-painting/processamento-de-cores",
+  "permalink": "/docs/sculpting-and-painting/processamento-de-cores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/13-sculpting-and-painting/processamento-de-cores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "paleta-de-cores",
+    "permalink": "/docs/sculpting-and-painting/paleta-de-cores"
+  },
+  "next": {
+    "title": "Textura de Cor",
+    "permalink": "/docs/sculpting-and-painting/textura-de-cor"
+  }
+}

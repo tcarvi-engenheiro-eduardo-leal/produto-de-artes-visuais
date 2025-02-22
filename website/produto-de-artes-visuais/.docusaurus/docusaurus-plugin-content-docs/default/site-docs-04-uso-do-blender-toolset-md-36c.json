@@ -1,0 +1,24 @@
+{
+  "id": "uso-do-blender/toolset",
+  "title": "2D drawing and animation toolset",
+  "description": "- 2D animation workspace",
+  "source": "@site/docs/04-uso-do-blender/toolset.md",
+  "sourceDirName": "04-uso-do-blender",
+  "slug": "/uso-do-blender/toolset",
+  "permalink": "/docs/uso-do-blender/toolset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/04-uso-do-blender/toolset.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Textura de cor",
+    "permalink": "/docs/uso-do-blender/textura-de-cor"
+  },
+  "next": {
+    "title": "Pipelines",
+    "permalink": "/docs/pipelines/pipelines"
+  }
+}

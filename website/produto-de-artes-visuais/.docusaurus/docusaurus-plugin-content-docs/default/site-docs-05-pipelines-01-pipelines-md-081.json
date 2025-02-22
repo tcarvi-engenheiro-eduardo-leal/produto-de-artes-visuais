@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipelines",
+  "title": "Pipelines",
+  "description": "Concept Art (da Ideação até Storyboard 2D)",
+  "source": "@site/docs/05-pipelines/01-pipelines.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipelines",
+  "permalink": "/docs/pipelines/pipelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/01-pipelines.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2D drawing and animation toolset",
+    "permalink": "/docs/uso-do-blender/toolset"
+  },
+  "next": {
+    "title": "Concept Art - Storyboard 2D",
+    "permalink": "/docs/pipelines/pipeline-concept-art-storyboard-2D"
+  }
+}

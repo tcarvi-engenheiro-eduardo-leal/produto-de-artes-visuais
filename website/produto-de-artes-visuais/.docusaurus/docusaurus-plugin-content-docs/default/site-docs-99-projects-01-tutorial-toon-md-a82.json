@@ -1,0 +1,23 @@
+{
+  "id": "projects/Tutorial_Toon",
+  "title": "Tutorial Toon",
+  "description": "1. Concept Art",
+  "source": "@site/docs/99-projects/01-Tutorial_Toon.md",
+  "sourceDirName": "99-projects",
+  "slug": "/projects/Tutorial_Toon",
+  "permalink": "/docs/projects/Tutorial_Toon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/99-projects/01-Tutorial_Toon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 4 - Pós-Produção",
+    "permalink": "/docs/video-editing/etapa4-pos-producao"
+  }
+}

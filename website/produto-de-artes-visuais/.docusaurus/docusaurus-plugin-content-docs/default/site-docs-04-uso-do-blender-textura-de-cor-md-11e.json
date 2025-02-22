@@ -1,0 +1,24 @@
+{
+  "id": "uso-do-blender/textura-de-cor",
+  "title": "Textura de cor",
+  "description": "- Shading tab",
+  "source": "@site/docs/04-uso-do-blender/textura-de-cor.md",
+  "sourceDirName": "04-uso-do-blender",
+  "slug": "/uso-do-blender/textura-de-cor",
+  "permalink": "/docs/uso-do-blender/textura-de-cor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/04-uso-do-blender/textura-de-cor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "editar",
+    "permalink": "/docs/uso-do-blender/editar"
+  },
+  "next": {
+    "title": "2D drawing and animation toolset",
+    "permalink": "/docs/uso-do-blender/toolset"
+  }
+}

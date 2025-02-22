@@ -1,0 +1,28 @@
+{
+  "id": "compositing/etapa0-fluxo-de-trabalho",
+  "title": "Fluxo de Trabalho",
+  "description": "Pensar nos cenários e nos objetos",
+  "source": "@site/docs/18-compositing/etapa0-fluxo-de-trabalho.md",
+  "sourceDirName": "18-compositing",
+  "slug": "/compositing/etapa0-fluxo-de-trabalho",
+  "permalink": "/docs/compositing/etapa0-fluxo-de-trabalho",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/18-compositing/etapa0-fluxo-de-trabalho.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluxo de Trabalho",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 4 - Pós-Produção",
+    "permalink": "/docs/rendering/etapa4-pos-producao"
+  },
+  "next": {
+    "title": "Etapa 1 - Pré-Produção",
+    "permalink": "/docs/compositing/etapa1-pre-producao"
+  }
+}

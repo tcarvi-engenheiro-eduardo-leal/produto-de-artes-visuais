@@ -1,0 +1,28 @@
+{
+  "id": "publicacao-web/etapa4-pos-producao",
+  "title": "Etapa 4 - Pós-Produção",
+  "description": "Composição",
+  "source": "@site/docs/21-publicacao-web/etapa4-pos-producao.md",
+  "sourceDirName": "21-publicacao-web",
+  "slug": "/publicacao-web/etapa4-pos-producao",
+  "permalink": "/docs/publicacao-web/etapa4-pos-producao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/21-publicacao-web/etapa4-pos-producao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Etapa 4 - Pós-Produção",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 3 - Produção",
+    "permalink": "/docs/publicacao-web/etapa3-producao"
+  },
+  "next": {
+    "title": "Fluxo de Trabalho",
+    "permalink": "/docs/video-editing/etapa0-fluxo-de-trabalho"
+  }
+}

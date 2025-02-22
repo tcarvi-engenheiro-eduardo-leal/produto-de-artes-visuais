@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-video-editing",
+  "title": "Video Editing",
+  "description": "- Video Editing using Sequencer",
+  "source": "@site/docs/05-pipelines/16-pipeline-video-editing.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-video-editing",
+  "permalink": "/docs/pipelines/pipeline-video-editing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/16-pipeline-video-editing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Effects",
+    "permalink": "/docs/pipelines/pipeline-effects"
+  },
+  "next": {
+    "title": "Grading",
+    "permalink": "/docs/pipelines/pipeline-grading"
+  }
+}

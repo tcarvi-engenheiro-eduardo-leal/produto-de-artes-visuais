@@ -1,0 +1,24 @@
+{
+  "id": "characters-modeling/teoria",
+  "title": "Teoria",
+  "description": "- Blender’s comprehensive array of modeling tools make creating, transforming, sculpting and editing your models a breeze.",
+  "source": "@site/docs/10-characters-modeling/teoria.md",
+  "sourceDirName": "10-characters-modeling",
+  "slug": "/characters-modeling/teoria",
+  "permalink": "/docs/characters-modeling/teoria",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/10-characters-modeling/teoria.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "etapa4-pos-producao",
+    "permalink": "/docs/layout/etapa4-pos-producao"
+  },
+  "next": {
+    "title": "Teoria",
+    "permalink": "/docs/props-modeling/teoria"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-layout",
+  "title": "Layout",
+  "description": "- No blender",
+  "source": "@site/docs/05-pipelines/05-pipeline-layout.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-layout",
+  "permalink": "/docs/pipelines/pipeline-layout",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/05-pipeline-layout.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concept Art - Cinematic",
+    "permalink": "/docs/pipelines/pipeline-concept-art-cinematic"
+  },
+  "next": {
+    "title": "Characters Modeling",
+    "permalink": "/docs/pipelines/pipeline-characters-modeling"
+  }
+}

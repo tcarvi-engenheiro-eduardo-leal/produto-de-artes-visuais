@@ -1,0 +1,24 @@
+{
+  "id": "concept-art-storyboard-2d/etapa1-pre-producao",
+  "title": "Etapa 1 - Pré-Produção",
+  "description": "Ideação",
+  "source": "@site/docs/06-concept-art-storyboard-2d/etapa1-pre-producao.md",
+  "sourceDirName": "06-concept-art-storyboard-2d",
+  "slug": "/concept-art-storyboard-2d/etapa1-pre-producao",
+  "permalink": "/docs/concept-art-storyboard-2d/etapa1-pre-producao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/06-concept-art-storyboard-2d/etapa1-pre-producao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluxo de Trabalho",
+    "permalink": "/docs/concept-art-storyboard-2d/etapa0-fluxo-de-trabalho"
+  },
+  "next": {
+    "title": "Etapa 2 - Produção (Insumos para Modelagem)",
+    "permalink": "/docs/concept-art-storyboard-2d/etapa2-producao-insumos"
+  }
+}

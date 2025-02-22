@@ -1,0 +1,25 @@
+{
+  "id": "conceitos-gerais/blender",
+  "title": "Blender",
+  "description": "Blender Developers:",
+  "source": "@site/docs/01-conceitos-gerais/01-blender.md",
+  "sourceDirName": "01-conceitos-gerais",
+  "slug": "/conceitos-gerais/blender",
+  "permalink": "/docs/conceitos-gerais/blender",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/01-conceitos-gerais/01-blender.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceitos Gerais",
+    "permalink": "/docs/category/conceitos-gerais"
+  },
+  "next": {
+    "title": "Source Code",
+    "permalink": "/docs/conceitos-gerais/source-code"
+  }
+}

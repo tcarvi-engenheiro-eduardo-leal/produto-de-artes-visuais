@@ -1,0 +1,25 @@
+{
+  "id": "physics-and-scripting/scripting",
+  "title": "Scripting",
+  "description": "- Build by source code",
+  "source": "@site/docs/15-physics-and-scripting/01-scripting.md",
+  "sourceDirName": "15-physics-and-scripting",
+  "slug": "/physics-and-scripting/scripting",
+  "permalink": "/docs/physics-and-scripting/scripting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/15-physics-and-scripting/01-scripting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 4 - Pós-Produção",
+    "permalink": "/docs/animating-and-rigging/etapa4-pos-producao"
+  },
+  "next": {
+    "title": "Bulding Blender",
+    "permalink": "/docs/physics-and-scripting/building"
+  }
+}

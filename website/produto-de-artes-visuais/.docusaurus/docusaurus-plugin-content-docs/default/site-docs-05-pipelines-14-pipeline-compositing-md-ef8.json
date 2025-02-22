@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-compositing",
+  "title": "Compositing",
+  "description": "- Post-processing the the compositing nodes.",
+  "source": "@site/docs/05-pipelines/14-pipeline-compositing.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-compositing",
+  "permalink": "/docs/pipelines/pipeline-compositing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/14-pipeline-compositing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rendering",
+    "permalink": "/docs/pipelines/pipeline-rendering"
+  },
+  "next": {
+    "title": "Effects",
+    "permalink": "/docs/pipelines/pipeline-effects"
+  }
+}

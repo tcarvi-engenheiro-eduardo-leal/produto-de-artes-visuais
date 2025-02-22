@@ -1,0 +1,24 @@
+{
+  "id": "concept-art-storyboard-2d/etapa4-pos-producao",
+  "title": "Etapa 4 - Pós-Produção",
+  "description": "Composição",
+  "source": "@site/docs/06-concept-art-storyboard-2d/etapa4-pos-producao.md",
+  "sourceDirName": "06-concept-art-storyboard-2d",
+  "slug": "/concept-art-storyboard-2d/etapa4-pos-producao",
+  "permalink": "/docs/concept-art-storyboard-2d/etapa4-pos-producao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/06-concept-art-storyboard-2d/etapa4-pos-producao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etapa 3 - Produção",
+    "permalink": "/docs/concept-art-storyboard-2d/etapa3-producao"
+  },
+  "next": {
+    "title": "Etapa 1 - Pré-Produção",
+    "permalink": "/docs/concept-art-storyboard-3d/etapa1-pre-producao"
+  }
+}

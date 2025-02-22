@@ -1,0 +1,25 @@
+{
+  "id": "uso-do-blender/navegar",
+  "title": "Navegar:",
+  "description": "Blender",
+  "source": "@site/docs/04-uso-do-blender/03-navegar.md",
+  "sourceDirName": "04-uso-do-blender",
+  "slug": "/uso-do-blender/navegar",
+  "permalink": "/docs/uso-do-blender/navegar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/04-uso-do-blender/03-navegar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visualizar",
+    "permalink": "/docs/uso-do-blender/visualizar"
+  },
+  "next": {
+    "title": "selecionar",
+    "permalink": "/docs/uso-do-blender/selecionar"
+  }
+}

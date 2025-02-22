@@ -1,0 +1,25 @@
+{
+  "id": "pipelines/pipeline-rendering",
+  "title": "Rendering",
+  "description": "- Blender comes with a powerful unbiased rendering engine that offers stunning ultra-realistic rendering.",
+  "source": "@site/docs/05-pipelines/13-pipeline-rendering.md",
+  "sourceDirName": "05-pipelines",
+  "slug": "/pipelines/pipeline-rendering",
+  "permalink": "/docs/pipelines/pipeline-rendering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/05-pipelines/13-pipeline-rendering.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lighting",
+    "permalink": "/docs/pipelines/pipeline-lighting"
+  },
+  "next": {
+    "title": "Compositing",
+    "permalink": "/docs/pipelines/pipeline-compositing"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arquitetura-do-aplicativo-blender/meshes",
+  "title": "meshes",
+  "description": "Meshes",
+  "source": "@site/docs/02-arquitetura-do-aplicativo-blender/04-meshes.md",
+  "sourceDirName": "02-arquitetura-do-aplicativo-blender",
+  "slug": "/arquitetura-do-aplicativo-blender/meshes",
+  "permalink": "/docs/arquitetura-do-aplicativo-blender/meshes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/02-arquitetura-do-aplicativo-blender/04-meshes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transformation",
+    "permalink": "/docs/arquitetura-do-aplicativo-blender/transformation"
+  },
+  "next": {
+    "title": "referencias",
+    "permalink": "/docs/arquitetura-do-aplicativo-blender/referencias"
+  }
+}

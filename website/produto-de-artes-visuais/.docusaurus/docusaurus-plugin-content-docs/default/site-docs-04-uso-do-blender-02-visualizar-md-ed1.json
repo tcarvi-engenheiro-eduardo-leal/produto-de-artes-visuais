@@ -1,0 +1,25 @@
+{
+  "id": "uso-do-blender/visualizar",
+  "title": "Visualizar",
+  "description": "Toogle de visualização em 4 Views",
+  "source": "@site/docs/04-uso-do-blender/02-visualizar.md",
+  "sourceDirName": "04-uso-do-blender",
+  "slug": "/uso-do-blender/visualizar",
+  "permalink": "/docs/uso-do-blender/visualizar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/04-uso-do-blender/02-visualizar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workspace",
+    "permalink": "/docs/uso-do-blender/workspace"
+  },
+  "next": {
+    "title": "Navegar:",
+    "permalink": "/docs/uso-do-blender/navegar"
+  }
+}

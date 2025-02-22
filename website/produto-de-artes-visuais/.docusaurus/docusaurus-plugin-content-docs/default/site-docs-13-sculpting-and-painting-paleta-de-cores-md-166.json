@@ -1,0 +1,24 @@
+{
+  "id": "sculpting-and-painting/paleta-de-cores",
+  "title": "paleta-de-cores",
+  "description": "Paleta de Cores",
+  "source": "@site/docs/13-sculpting-and-painting/paleta-de-cores.md",
+  "sourceDirName": "13-sculpting-and-painting",
+  "slug": "/sculpting-and-painting/paleta-de-cores",
+  "permalink": "/docs/sculpting-and-painting/paleta-de-cores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/13-sculpting-and-painting/paleta-de-cores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teoria",
+    "permalink": "/docs/environment-modeling/teoria"
+  },
+  "next": {
+    "title": "Processamento de Cores",
+    "permalink": "/docs/sculpting-and-painting/processamento-de-cores"
+  }
+}

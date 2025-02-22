@@ -1,0 +1,25 @@
+{
+  "id": "ambiente-de-trabalho/installation",
+  "title": "Installation",
+  "description": "- Download",
+  "source": "@site/docs/03-ambiente-de-trabalho/01-installation.md",
+  "sourceDirName": "03-ambiente-de-trabalho",
+  "slug": "/ambiente-de-trabalho/installation",
+  "permalink": "/docs/ambiente-de-trabalho/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-artes-visuais/edit/main/tutorial/docs/03-ambiente-de-trabalho/01-installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "referencias",
+    "permalink": "/docs/arquitetura-do-aplicativo-blender/referencias"
+  },
+  "next": {
+    "title": "Preferences",
+    "permalink": "/docs/ambiente-de-trabalho/preferences"
+  }
+}
