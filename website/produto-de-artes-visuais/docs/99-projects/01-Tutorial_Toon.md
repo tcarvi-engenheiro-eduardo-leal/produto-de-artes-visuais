@@ -11,9 +11,10 @@ sidebar_position: 1
 - Basics:
     - New file: camera, light and cube
     - Select (Left Mouse Button)
-    - Rotate (Middle Mouse Button)
     - Zoom (Girar roda do Midle Mouse Button)
-    - Drag (shift + click Middle Mouse Button)
+    - Drag (Middle Mouse Button)
+    - Rotate (shift + click Middle Mouse Button)
+
 - Movimentação rápida
     - Select Object
     - Opção de Teclas:
@@ -47,15 +48,12 @@ sidebar_position: 1
 - Edit Mode vs Object Mode
 - Crtl D para undo
 - Crtl shift D para redo
-- Inclusão de imagens de background
-    - Selecionar câmera
-    - Abrir Painel de Propriedades, menu Object Data Properties
-    - Ativar Background Image e adicionar imagem na câmera.
-- Configurar apresentação de background na câmera
+- Configurar apresentação de background
     - Na visualização de layout
-    - Use 2 telas de 3D View
-    - Em uma das telas, selecione a Câmera e ative a aba de transformação com a tecla N.
-    - Na outra 3D view, use o techa Numpad 0 para ver a view da câmera selecionada.
+    - Ative a visão ortográfica de frente, no 3D View, com o eixo X apontando para a direita. E o Eixo Y apontando para longe de você. (você verá o -Y na sua tela)
+    - No menu da Janela 3D View, selecione: Add > Image > Backgound
+    - Escolha sua imagem, mantendo selecionado "Align do View".
+    - Faço o mesmo para as views da Esquerda e da Direita.
 - Alterar entre Orthographic e Perspective View Mode
     - Numpad 5
 - Alterar entre Views
