@@ -1,0 +1,25 @@
+{
+    "comandos": [
+        {
+            "DeslocarRetoEmX":"11"
+        },
+        {
+            "DeslocarRetoEmY":"22"
+        },
+        {
+            "DeslocarRetoEmZ":"33"
+        },
+        {
+            "DeslocarInclinadoEmY":"44"
+        },
+        {
+            "DeslocarInclinadoEmZ":"55"
+        },
+        {
+            "DesenharRetoLinhaEmX":"66"
+        },
+        {
+            "DesenharRetoLinhaEmY":"77"
+        }
+    ]
+}

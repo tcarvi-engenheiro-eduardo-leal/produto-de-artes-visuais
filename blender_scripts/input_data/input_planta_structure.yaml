@@ -1,0 +1,15 @@
+comandos:
+  - comando: DesenharRetoLinhaEmX
+    deslocamento: "8.5"
+  - comando: "DeslocarRetoEmX"
+    deslocamento: "3"
+  - comando: "DesenharRetoLinhaEmX"
+    deslocamento: "8.5"
+  - comando: "DesenharRetoLinhaEmY"
+    deslocamento: "30"
+  - comando: "DesenharRetoLinhaEmX"
+    deslocamento: "-20"
+  - comando: "DeslocarRetoEmY"
+    deslocamento: "-3"
+  - comando: "DesenharRetoLinhaEmY"
+    deslocamento: "-27"
