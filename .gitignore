@@ -80,13 +80,12 @@ build/Release
 # dataconnect generated files
 .dataconnect
 
+
 # TCARVI
-nao_enviar
+nao_enviar/
 node_modules
 build
 .firebaserc
 firebase.json
 yarn.lock
 package-lock.json
-katex
-.vs
