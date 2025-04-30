@@ -8,7 +8,7 @@ const config: Config = {
   title: 'Tutoriais de Artes Visuais com Blender',
   tagline: 'produto-de-artes-visuais',
   favicon: 'img/favicon.ico',
-  url: 'https://blender-artes-visuais.web.app/',
+  url: 'https://projeto-de-artes-visuais.web.app/',
   baseUrl: '/',
   organizationName: 'tcarvi-engenheiro-eduardo-leal',
   projectName: 'produto-de-artes-visuais',
