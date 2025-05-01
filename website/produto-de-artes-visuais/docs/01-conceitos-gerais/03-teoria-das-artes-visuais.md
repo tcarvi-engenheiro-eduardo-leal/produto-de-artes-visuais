@@ -78,3 +78,24 @@
 - Ambiguidade
 - Espontaneidade
 - Aleatoriedade
+
+## Aspectos Físicos da Cor
+- Espectro Visíve da Luz
+    - Vermelho 700 comprimento de onda
+    - Laranja 600
+    - Amarelo 580
+    - Verde 550
+    - Ciano 475
+    - Azul Claro 450
+    - Azul Escuro 400
+- Luz Vs Pigmento
+
+## Aspectos Fisiológicos da Cor
+- Retina
+    - cones -> ver a matiz das cores
+    - bastonetes -> ver o valor nas cores
+
+## Diretrizes para Aplicação da Cor
+- Matiz
+- Valor (caminha para cinza ...)
+- Saturação
