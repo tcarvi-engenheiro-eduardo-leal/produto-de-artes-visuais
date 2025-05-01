@@ -19,6 +19,12 @@
     - Espaço – Ilusão de profundidade ou disposição dos elementos no plano.
     - Volume – Sensação de tridimensionalidade em esculturas e obras arquitetônicas.
 
+## Elementos Conceituais Relacionais
+- Posição
+- Direção
+- Espaço
+- Gravidade
+
 ## Técnicas e Suportes
 - Materiais e métodos utilizados na produção artística:
     - Desenho (lápis, carvão, nanquim).
@@ -99,3 +105,98 @@
 - Matiz
 - Valor (caminha para cinza ...)
 - Saturação
+
+## Perspectivas
+- Perspectiva Cônica Paralela
+    - Plano Horizontal na altural do pé do observador
+    - Plano Vertinal na frente do observador
+        - Quadro
+    - ho -> Altura do Obervador, do pé até o olho.
+    - LH -> Linha do Horizonte, linha paralela ao plano horizontal, na altura ho
+    - PFC -> Ponto de Fuga Central, na frente do olho, alcançando a LH em um ponto.
+- Perspectiva Cônica Oblíqua
+    - Dois pontos de Fugas. PF1 e PF2, em lados opostos à imagem tridimensional.
+
+## Trompe Lóeil 
+- Ilusão de tridimensionalidade
+- Pode ocorrer com usa das perspectivas cônicas
+
+## Realidade Aumentada e Realidade Virtual
+
+## Ritmo
+- Crescente
+- Decrescente
+
+## Movimento
+
+## Configuração e Espaço
+- Ex.: Arnhein
+
+## Arte Sequencial
+
+## Planos de Visão
+- Plano de detalhe
+    - Foco na mensagem
+- Primeiro Plano
+- Plano Aproximado
+- Plano Americano
+    - Do joelho para cima
+- Plano de Conjunto
+    - Corpo Inteiro + cenário mínimo
+- Plano Panorâmico
+    - Visão Informativa do Espaço
+
+## Conceitos Fundamentais da História da Arte (renascimento e barroco)
+- Linear e Pictórico
+    - Linear:
+        - Contorno nítido
+        - Obra mais descritiva e mental
+        - Obra mais vinculada com o desenho
+        - Obras mais renascentistas
+        - Obras mais greco-romanas
+        - Obras mais precisas, perfeccionistas
+        - Obras mas clássicas
+    - Pictórico:
+        - Obra mais subjetivo
+        - Obra mais sentimental do que mental
+        - Obra mais vinculada com a pintura
+        - Obra mais barroca
+- Plano e Profundidade
+    - Plano:
+        - Obras do renascimento
+        - Todo o interesse se encontra em um plano frontal simples, mesmo havendo o uso de percepctivas.
+    - Profundidade:
+        - Obras do barroco
+        - Informações apresentam-se em planos contrastantes, com o uso constrastante da ilumninação na pintura.
+- Forma Fechada e Forma Aberta
+    - Forma Fechada:
+        - Conseguimos distinguir a forma do fundo.
+        - Obras do renascimento
+        - Mais planas e mais linear
+        - Exemplo representativo:
+            - Leonardo Da Vinci
+            - Michelangelo
+    - Forma Aberta:
+        - Não conseguimos distinguir a forma do fundo.
+        - Obras do barroco
+        - Menos planar e menos linear.
+        - Exemplo representativo:
+            - Rembrandt
+- Pluralidade e Unidade
+    - Unidade:
+        - O olho olha para o que é único.
+        - Olha para o que destoa, como unidade única.
+        - Mais obras do renascimento.
+    - Pluralidade:
+        - Há várias unidades juntas, vários focos, necessárias para a mensagem.
+        - Mais barroco
+        - Mais subjetivo
+- Clareza Absoluta e Clareza Relativa
+    - Clareza Absoluta:
+        - Renascimento
+        - Há linhas, há percepctivas, há plano.
+        - A visualização é mais clara e fácil de perceber.
+    - Clareza Relativa:
+        - Barroco
+        - A sombra gera dúvidas sobre a imagem retratada.
+        - Forma mais aberta e pictórica.
