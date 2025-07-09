@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/conceitos-gerais">
+            to="/docs/conceitos-gerais/teoria-das-artes-visuais">
             tutoriais - 5min ⏱️
           </Link>
         </div>
@@ -32,8 +32,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Tutoriais sobre blender"
-      description="Description will go into a meta tag in <head />">
+      title="Produtos de Artes Visuais"
+      description="Tutoriais de Artes Visuais com Aplicativos Open Source">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

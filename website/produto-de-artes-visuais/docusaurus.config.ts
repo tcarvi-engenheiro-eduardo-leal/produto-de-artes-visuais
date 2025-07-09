@@ -5,7 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
-  title: 'Tutoriais de Artes Visuais com Blender',
+  title: 'Tutoriais de Artes Visuais com Aplicativos Open Source',
   tagline: 'produto-de-artes-visuais',
   favicon: 'img/favicon.ico',
   url: 'https://projeto-de-artes-visuais.web.app/',
@@ -81,7 +81,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/category/conceitos-gerais',
+              to: '/docs/conceitos-gerais/teoria-das-artes-visuais',
             },
           ],
         },

@@ -2,7 +2,22 @@
 
 ## Tipos de Imagens Artísticas
 - Representação figurativa do mundo natural
+    - Representação de formas que imitam a aparência real dos objetos, pessoas ou cenas da natureza.
+        - Pode ser realista (como nas pinturas de Leonardo da Vinci)
+        - Pode ser impressionista (como Monet) ou
+        - Pode ser estilizada (como certas obras de Van Gogh)
 - Representação Abstrata
+    - Forma de expressão artística que se afasta da imitação fiel da realidade (figurativismo)
+    - Prioriza formas, cores, linhas, texturas e composições livres de referências diretas ao mundo visível.
+    - Características:
+        - Não busca retratar objetos, pessoas ou paisagens de maneira reconhecível.
+        - Pode ser totalmente não figurativa (abstração pura) ou derivada de formas da realidade, mas distorcidas ou simplificadas (abstração geométrica ou lírica).
+        - Usa e concebe cores como elemento autônomo. (usadas de forma expressiva ou simbólica, como em Kandinsky).
+        - Usa Formas geométricas (como em Mondrian)
+        - Usa Formas orgânicas (como em Joan Miró)
+        - Apresenta Texturas e linhas (valorizadas por seu impacto visual, não por representarem algo)
+        - Mesmo não imitando a natureza, busca Expressar emoções, conceitos ou harmonias universais (ex.: espiritualidade em Kandinsky), mas através de suas cores, formas, texturas e linhas.
+        - Busca explorar a pureza da forma e da composição (ex.: movimento De Stijl).
 - Representação Simbólica
 
 ## Elementos Básicos (Formais)
@@ -15,7 +30,8 @@
     - Textura – Qualidade superficial (lisa, áspera, granulada).
         - Gráfica/visual
         - Tátil
-    - Valor (Luz e Sombra) – Gradação de claro e escuro para criar volume.
+    - Matiz das cores
+    - Valor das cores (Luz e Sombra) – Gradação de claro e escuro para criar volume.
     - Espaço – Ilusão de profundidade ou disposição dos elementos no plano.
     - Volume – Sensação de tridimensionalidade em esculturas e obras arquitetônicas.
 
@@ -86,14 +102,14 @@
 - Aleatoriedade
 
 ## Aspectos Físicos da Cor
-- Espectro Visíve da Luz
-    - Vermelho 700 comprimento de onda
-    - Laranja 600
-    - Amarelo 580
-    - Verde 550
-    - Ciano 475
-    - Azul Claro 450
-    - Azul Escuro 400
+- Espectro Visível da Luz
+    - Vermelho (700 nm)
+    - Laranja (600 nm)
+    - Amarelo (580 nm)
+    - Verde (550 nm)
+    - Ciano (475 nm)
+    - Azul Claro (450 nm)
+    - Azul Escuro (400 nm)
 - Luz Vs Pigmento
 
 ## Aspectos Fisiológicos da Cor
@@ -200,3 +216,26 @@
         - Barroco
         - A sombra gera dúvidas sobre a imagem retratada.
         - Forma mais aberta e pictórica.
+
+# Principais Tipos de Abstração
+## Abstração Geométrica
+- Formas precisas (quadrados, círculos, linhas retas)
+- Cores planas
+- Artista Representativo:
+    - Piet Mondrian (Composição)
+
+## Abstração Lírica
+- Formas fluidas, orgânicas e expressivas, muitas vezes sugerindo movimento.
+- Artista Representativo:
+    - Wassily Kandinsky (Círculos)
+
+## Expressionismo Abstrato
+- Foco na ação física do artista e na emotividade (pintura gestual)
+- Artista Representativo:
+    - Jackson Pollock (dripping)
+
+## Abstração Informal
+- Ênfase em manchas, texturas e acaso (técnicas como action painting).
+- Artista Representativo:
+    - Mark Rothko (campos de cor)
+

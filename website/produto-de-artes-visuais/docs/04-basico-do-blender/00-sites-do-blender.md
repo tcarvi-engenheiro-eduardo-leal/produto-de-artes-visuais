@@ -1,4 +1,4 @@
-# Blender
+# Sites do Blender
 
 ### Blender Developers:
 - [Blender DEVELOPERS](https://developer.blender.org/)
