@@ -5,15 +5,26 @@
 ---
 
 
-### **Método 1: Usando a Ferramenta Elipse (Para Pontos Redondos)**  
-1. **Selecionar a ferramenta `Elipse`**:  
-   - Tecla rápida: **`E`** ou clique no ícone do círculo na barra de ferramentas.  
+## Método 1: Usando a Ferramenta Elipse
+- Selecionar a ferramenta `Elipse`:  
+   - `E` ou `clique no ícone do círculo na barra de ferramentas`
 
-2. **Desenhar um círculo minúsculo**:  
-   - Clique e arraste enquanto segura **`Ctrl`** para criar um círculo perfeito.  
-   - Reduza o tamanho para formar um ponto (ex.: 2x2 px).  
+### Desenhar um círculo
+- Clique e arraste para criar um Círculo
 
-3. **Remover o contorno (opcional)**:  
-   - No painel **Preenchimento e Contorno**, defina a espessura do traço como **0** ou desative o contorno.  
+### Defina as Medidas do Círculo
+- Acesse menu `Objeto` > `Transformar`
+   - Acesse aba `Escalar`
+      - Defina:
+         - `Largura`: 10 px
+         - `Altura`: 10 px
+      - Clique no botão `Aplicar`
 
----
+### Configure o Preenchimento e o Contorno
+- Acesse menu `Objeto` > `Preechimetno e Contorno`
+   - Acesse aba `Preechimento`
+      - Selecione `Cor Uniforme`
+      - Defina a `Cor de Prenchimento Interno`
+   - Acesse aba `Contorno`
+      - Selecione `Cor Uniforme`
+      - Defina a `Cor de Contorno`

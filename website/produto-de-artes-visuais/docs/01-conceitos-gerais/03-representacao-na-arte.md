@@ -1,0 +1,92 @@
+# Representação na Arte
+- Mimesis em Platão e Aristóteles
+    - Noção de Imitação da Filofia da Grécia Antiga
+        - Doutrina Platônica das Formas (réplicas de uma ideia essencial)
+            - Mundo inteligível (ideias essenciais) vs mundo sensível (formas que replicam ideias)
+            - A essência das coisas é imutável e refere-se ao que é verdadeiro.
+            - Só as essências (universais) existem "verdadeiramente", no mundo inteligível.
+            - As coisas particulars refletem os paradigmas universais (ideias gerais), mas são apenas formas (imitação de uma ideia). Existem, mas não são realmente o que as ideias definem. Há sempre imperfeiç˜åo na réplica das formas. Há imperfeição nas obras de arte, mas a arte deve buscar a perfeição, mesmo nunca a alcançando.
+            - Artes imitativas produzidas pela "tékne" na Antiguidade Grega:
+                - pintura,
+                - escultura,
+                - poesia e 
+                - música.
+        - Mimesis aristotélicas
+            - Há qualidade nas artes imitativas
+            - ˜Sentimos prazer com a imitação".
+            - Valorizaç˜åo da imitação.
+            - Arte como péoiesis, imitaçåõ que se aproxima da natureza.
+                - O importante é se parecer com a natureza, para fornecer prazer com a percepção visual.
+                - Busca da catarse: neutralização dos sentimentos excessivos e estabelecimento de equilíbrio que resulta em novo sentimento, mediano e harmonioso.
+                - Posia com função pedagógica (moral) e efeito purificador (catarse). 
+    - Retomada da noção de imitação com os humanistas, entre os séculos XV e XVI.
+    - Retomada da noção de imitação no Renascimento, mas com mudanças devido uso da perspectiva.
+- Da pintura, de Leon Battista Alberti.
+    - Teoria da Pintura em que a perspectiva ocupa espaço central. 
+        - De pictura (latim) (1439-1441)
+    - A perspectiva sustenta, na teoria albertiana, o caráter intelectual da arte da pintura.
+    - A imitação mecânica (mimesis platônica e aristotélica, replicada no humanismo e no renascimento), dá lugar, com a utilização da perspectiva, a uma percepção de elevação da arte, em obras chamadas então de "artes liberais".
+    - Percepção de que a pintura deve contar uma história.
+    - Defesa de que a pintura deve usar das tecnicas da "perspectiva".
+        - Perspectiva albertiana
+- Tratado da pintura, de Leonardo da Vinci.
+    - Teoria produzida entre 1490 e 1517
+    - Primeira edição reduzida: pós morte. 1651
+    - Edição completa de 1817. Codex Urbinas.
+        - Comparação entre as artes da pintura, escultura, música e poesia.
+        - Proeminência da pintura, entendida como ciência.
+    - A pintura é um objeto do intelecto.
+    - A pintura não deve ser tratada como um ato mecânico de repetição, cópia da natureza.
+    - A pintura deve dialogar com o intelecto, sendo assim uma "arte liberal".
+    - Uso da perceptiva aérea, horizaonte do céu com cor azul.
+    - Paragone (comparação entre as artes)
+        - Pintura é superior.
+    - Sistema de Educação Medieval.
+        - Sete artes liberais, subdivididas em trivium e quadrivium
+        - Trivium: artes da palavra e da expressão do pensamento.
+            - Lógica (dialética)
+            - Gramática
+            - Retórica
+        - Quadrivium: artes da vida material e à matemática
+            - aritmética
+            - música
+            - geometria
+            - astronomia
+- Livro "Vidas", de Giorgio Vasari.
+    - História da arte, a partir de biografias. (1550)
+    - Primeira tentativa de se contar a História das Artes.
+        - Mudança da posição das artes para o local mais elevado das artes liberais.
+    - Descrição de Obras: (ecfrase)
+    - Apresentação do desenvolvimento dos estilos (retórica)
+    - Apresentação das técnicas artísticas (tratadística)
+    - Tese:
+        - O renascimento foi uma retomada dos valores racionalistas do classicismo greco-romano e iniciou novo ciclo progressivo das artes da pintura e da escultura.
+        - Renascimento tem 3 fases:
+            - Começa com Cimabue (séc. XIII e XIV)
+            - Passa por Masaccio (séc. XV)
+            - Atinge grau máximo com Michelangelo
+        - Paragone (comparação entre as artes):
+            - O desenho com a perecptiva é a base da demais
+            - Não vê superioridade de uma arte sobre as outras.
+- A perspectiva com forma simbólica, de Erwin Panofsky.
+    - Crítico e historiador de arte alemão (primeira metade do século XX)
+    - Examina a noção de renascimento
+        - Não vê uma parada da arte no período medieval.
+        - Vê continuidade.
+        - Vê na idade média a inovação do "espaço pictórico". (inovação que depois gera a técnica da perspetiva)
+        - Vê mudanças, mas não tão grande.
+        - O revivamento italiano, entretanto, foi mais forte.
+    - Organiza questões fundamentais sobre:
+        - Perspectiva
+            - Invenção da Perspectiva por Brunelleschi em 1420. 
+            - Caráter enganoso do mundo visto na técnica da perspectiva.
+                - Não é real o quadro-janela.
+            - Desenho com perspectiva central renascentista:
+                - Perspectiva Artificialis 
+                - Ou Perpectiva Pingendi
+            - Matemática da Perpectiva:
+                - Persceptiva naturalis
+                - Ou Perspectiva Communis
+            - Figura o ideal da imagem desejada pelo artista.
+                - Não representa o mundo real visto.
+

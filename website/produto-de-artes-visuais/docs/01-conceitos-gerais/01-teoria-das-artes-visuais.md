@@ -239,3 +239,69 @@
 - Artista Representativo:
     - Mark Rothko (campos de cor)
 
+## Teorias Artísticas e Teorias Estético-Filosóficas
+- As obras de arte são impregnadas de teorias, desde a produção até sua recepção.
+- A teoria da arte é uma atividade que constrói, transforma ou modela o campo da arte.
+
+### Teorias Artísticas no Brasil, nos anos 70 do século XX
+
+- Manifesto Ruptura (1952)
+    - Waldemar Cordeiro
+        - Obra:
+            - Estudo (matemático)
+            - Têmpera sobre palelão
+    - A nossa inteligência, na produção de arte, não pode ser a de Leonardo.
+    - Há diferença entre criar considerando princípios velhos consolidados e criar novas formas com princípios novos.
+
+- Manifesto Neoconcreto (1959)
+    - Valoriza a Experiência e a subjetividade
+    - Valoriza o abstrato, mas buscando trazer o sujeito para a obra de arte.
+
+- Esquema Geral da Nova Objetividade (1967)
+    - Hélio Oiticica
+    - Vontade construtiva geral
+    - Nega o quadro de cavalete
+    - Tendência para o objeto
+    - Participação do espectador
+        - Participação corporal
+        - Participação tátil
+        - Participação visual
+        - Participação semântica
+    - Abordagem e tomada de posição em relação a problemas políticos, sociais e éticos.
+    - Tendência para proposições coletivas (arte dos coletivos de pessoas)
+    - Abolição de "ismos" da história da arte.
+    - Ressurgimento e novas formulações do conceito de antiarte. (Hélio Oiticica, 2010)
+
+- Contra a Arte afluente: o corpo é o motor da "obra" (1970)
+    - Frederico de Moraes
+    - Obra hoje é um conceito estourado em arte
+    - Deixando de existir fisicamente, libertando-se do suporte, da parede, do chão ou do teto, a arte não é mais do que uma situação, puro acontecimento, um processo.
+    - O artista não é o que realiza obras dads à contemplação, mas o que propõe situação que devem se vividas, experimentadas. (Frederico de Moraes, 2010)
+
+## Teoria Estético-Filosófica
+- Noção do filósofo estadunidense Arthur C. Danto
+    - Anos 1960-1970-1980-1990
+    - Mundo da arte
+    - Arthur C. Danto se supreende com as caixas "Brillo Boxes", de Andy Warhol (1964), em uma galeria de arte dos EUA.
+    - Arthur C. Danto responde para si próprio:
+        - "Ver alguma coisa como arte exige algo que o olho não pode perceber - uma atmosfera de teoria artística, um conhecimento da história da arte: um mundo da arte"(Danto, 1964)
+        - "O que faz a diferença entre uma caixa de Brillo e uma obra de arte é uma certa teoria da arte. é a teoria que a eleva ao mundo da arte, e a impede de colidir com o objeto real que ela é."
+    - Texto "O mundo da arte revisto"(1992)
+        - O discurso da arte dá razões e confere o estatuto de arte àquilo que, de outra maneira, seria apenas uma "mera coisa".
+        - As regras do jogo na arte ocidental estão muito envolvidas com um tipo de crítica. Ser um artista neste mundo da are é na verdade tomar uma posição e relação ao passado e em relaç˜åo aos seus contemporâneos.
+        - Uma obra é, portanto, uma crítica ao que a precedeu e ao que virá. E isso significa que entender uma obra exige reconstrução da percepção histórica e crítica que a motivou.
+
+- Noção do sociólogo frances Pierre Bordieu
+    - Anos 1950-1960-1970
+    - Relações entre o sujeito e a sociedade.
+    - Habitus e campo
+        - Habitus: sistema de disposições internas, socialmente informadas. Sujeio age, pensando que age de forma autônoma, mas na verdade segue um habitus incorporado internamente, a partir da sociedade.
+        - Campo: campo de forças e de lutas, com leis e regras específicas, dentro do qual os agentes ocupam posições que determinam suas relações com o próprio campo para consevá-lo ou transformá-lo.
+
+- Noção do sociólogo estadunidense Howard Becker
+    - Anos 1950-1960-1970
+    - Mundos da Arte 
+    - Análise social e organizacional: rede de cooperação necessária para a realização do trabalho artístico.
+    - A arte é mais uma atividade coletiva e menos um poduto de um gênio solitário.
+    - A produção e a distruibuição de arte nos mundos da arte é caracterizada por uma extensa divisão de trabalho.
+    - A cooperação baseia-se em convenções existentes e de uso partilhado.
