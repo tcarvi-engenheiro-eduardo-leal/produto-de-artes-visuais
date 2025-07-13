@@ -52,51 +52,93 @@
         - No escopo da arte, pode ser uma pequena mancha, um sinal ou um foco de atenção.
     - Linha – Traço contínuo que define formas, contornos e texturas.
     - Cor – Utilização de matizes, tons, saturação e contrastes.
-    - Formato / plano / superfície - (bidimensional)
-    - Forma – Estrutura geométrica ou orgânica de um objeto (tridimensional).
-    - Textura – Qualidade superficial (lisa, áspera, granulada).
+        - Matiz das cores
+        - Valor das cores (Luz e Sombra)
+            – Gradação de claro e escuro para criar volume.
+    - Espaço Bidimensinal
+        - Ilusão de profundidade devido disposição dos elementos no plano.
+    - Área Bidimensional:
+        - Formato (bidimensional)
+        - Plano (bidimensional)
+        - Superfície (bidimensional)
+    - Textura
+        – Qualidade superficial (lisa, áspera, granulada)
         - Gráfica/visual
         - Tátil
-    - Matiz das cores
-    - Valor das cores (Luz e Sombra) – Gradação de claro e escuro para criar volume.
-    - Espaço – Ilusão de profundidade ou disposição dos elementos no plano.
-    - Volume – Sensação de tridimensionalidade em esculturas e obras arquitetônicas.
+    - Espaço tridimensinal:
+        - Contexto de localização de esculturas e de obras arquitetônicas.
+    - Forma Tridimensional
+        - Estrutura geométrica ou orgânica de um objeto no espaço tridimensional.
+    - Volume
+        - Sensação de tridimensionalidade em esculturas e em obras arquitetônicas.
 
 ## Elementos Conceituais Relacionais
 - Posição
+    - Em relação a um sistema de referências.
 - Direção
+    - Em relação a um plano referenciado.
 - Espaço
+    - Em relação ao observador.
 - Gravidade
+    - Em relação à posição que serve como polo magnético.
 
 ## Técnicas e Suportes
 - Materiais e métodos utilizados na produção artística:
-    - Desenho (lápis, carvão, nanquim).
-    - Pintura (óleo, aquarela, acrílico, afresco).
-    - Gravura (xilogravura, litografia, serigrafia).
-    - Escultura (mármore, argila, metal, instalações).
+    - Desenho (à lápis, à carvão, à nanquim)
+    - Pintura (à óleo, com aquarela, com acrílico, em afresco)
+    - Gravura (com xilogravura, com litografia, com serigrafia)
+    - Escultura (em mármore, em argila, em metal, com instalações)
     - Fotografia e Arte Digital.
     - Colagem e Arte Têxtil.
 
 ## Princípios de Composição (Organização Visual)
 - Regras que orientam a disposição dos elementos na obra:
-    - Equilíbrio (simétrico ou assimétrico).
-    - Contraste (cores, formas, texturas opostas).
-    - Harmonia (unidade entre os elementos).
-    - Ritmo (repetição de padrões).
-    - Proporção (relação entre partes e todo).
-    - Perspectiva (ilusão de profundidade).
+    - Equilíbrio
+        - elementos simétricos ou
+        - elementos assimétricos
+    - Contraste
+        - cores com ou sem contraste
+        - formas com ou sem contrasta
+        - texturas com ou sem contraste
+    - Harmonia
+        - elementos com unidade harmônica ou
+        - elementos sem unidade harmônica
+    - Ritmo
+        - elementos com ou sem repetição de padrões (ritmo)
+    - Proporção
+        - elementos com ou sem relação percetiva com o todo
+    - Perspectiva
+        - imagem com ou sem ilusão de profundidade
 
 ## Leis da Gestalt (psicologia da forma)
-- Unidade
-- Segregação
-- Unificação
-- Fechamento
+- Lei da Proximidade:
+    - Elementos próximos entre si são percebidos como um grupo ou unidade.
+    - Nas artes visuais, isso ajuda a criar hierarquias e organizar composições.
+    - Por exemplo, em um cartaz, textos e imagens agrupados são lidos como informações relacionadas, enquanto elementos distantes são interpretados como separados.
+    - Artistas como Piet Mondrian usaram essa lei em suas grades abstratas, onde blocos de cor próximos formam relações visuais.
+- Lei da Semelhança:
+    - Elementos com características visuais semelhantes (cor, forma, tamanho, textura) são percebidos como pertencentes ao mesmo grupo.
+    - Na pintura, isso pode ser visto nas repetições de padrões, como os círculos concêntricos de Kandinsky ou as séries de retângulos coloridos de Josef Albers, onde a semelhança cria ritmo e harmonia.
+- Lei do Fechamento:
+    - O cérebro tende a completar formas incompletas se houver informações suficientes para sugerir uma estrutura reconhecível.
+    - Na arte, isso permite que obras como os desenhos minimalistas de Picasso (com poucos traços) ainda transmitam figuras completas.
+    - A escultura "O Andarilho" de Giacometti, com sua forma esquelética, também ativa essa lei, pois nossa mente preenche os espaços vazios.
 - Continuidade
-- Semelhança
-- Proximidade
+    - Elementos alinhados em uma direção são percebidos como um fluxo contínuo.
+    - Isso é essencial para guiar o olhar do espectador em uma pintura, como nas linhas sinuosas de "A Noite Estrelada" de Van Gogh, que conduzem a visão pelo céu em movimento.
+    - Designers gráficos usam essa lei para criar logotipos fluidos, como o da Coca-Cola, onde a escrita cursiva sugere movimento.
 - Pregnância
+    - A mente prefere interpretar imagens na forma mais simples e mais organizada possível.
+    - Isso explica por que abstrações geométricas, como as de Malevich ("Quadrado Preto"), ou ícones minimalistas (como a maçã da Apple) são facilmente reconhecíveis e memoráveis.
+    - Quanto mais clara e equilibrada a forma, mais eficaz sua comunicação visual.
+- Unidade
+    - Tentamos ver a unidade
+- Segregação
+    - Segregamos para ver a parte como uma unidade independente mas integrada.
+- Unificação
+    - Juntamos para entender juntos.
 
-## Categorias Conceituais Fundamentais
+## Categorias Conceituais Fundamentais em uma obra de arte
 - Harmonia e Desarmonia
 - Equilíbrio e Desequilíbrio
 - Contraste
@@ -128,21 +170,33 @@
 - Espontaneidade
 - Aleatoriedade
 
-## Aspectos Físicos da Cor
+## Espectro Visível das Cores no Gráfico de Ondas Eletromagnéticas
+- Quanto maior o comprimento de onda, menor a Energia.
+    - O infravermelho tem menos energia, mas é associado ao calor devido a cor da chama da oxidação.
+- Espectro Não-Visível
+    - Infravermelho (comprimento maior do que 750 nm)
 - Espectro Visível da Luz
-    - Vermelho (700 nm)
-    - Laranja (600 nm)
-    - Amarelo (580 nm)
-    - Verde (550 nm)
-    - Ciano (475 nm)
-    - Azul Claro (450 nm)
-    - Azul Escuro (400 nm)
-- Luz Vs Pigmento
+    - Vermelho (630 a 750 nm)
+         - O vermelho é menos energético do que o violeta e demais cores.
+    - Laranja (590 a 620 nm)
+    - Amarelo (570  a 590 nm)
+    - Verde (495 a 570 nm)
+    - Azul (450 a 570 nm)
+    - Violeta (380 a 450 nm)
+        - O violeta é mais energético do que o vermelho.
+- Espectro Não-Visível
+    - Ultravioleta (comprimento menor que 380 nm)
+- Quanto menor o comprimento de onda, maior a Energia.
+    - O ultravioela é invisível, mas sua incidência pode queimar a pele.
+
+## Luz Vs Pigmento
+    - O pigmento vermelho reflete o comprimento de onda vermelho.
+    - O mesmo para as cores dos demais pipmentos.
 
 ## Aspectos Fisiológicos da Cor
 - Retina
-    - cones -> ver a matiz das cores
-    - bastonetes -> ver o valor nas cores
+    - cones -> vê a matiz das cores
+    - bastonetes -> vê o valor nas cores
 
 ## Diretrizes para Aplicação da Cor
 - Matiz

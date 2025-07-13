@@ -30,7 +30,7 @@
 ---
 
 ### Aplique a Cor Escolhida
-- Com a esfera selecionada:  
+- Com a esfera selecionada:
    - No painel à direita, clique na aba `Material Properties` (ícone de esfera vermelha).
    - Clique em `New Material`.
    - Escolha a `Cor do Material`
