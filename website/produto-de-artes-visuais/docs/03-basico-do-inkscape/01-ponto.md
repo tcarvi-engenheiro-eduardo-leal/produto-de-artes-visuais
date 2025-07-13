@@ -1,11 +1,8 @@
 # Ponto no Inkspace  
 
-### **Como Desenhar um Ponto no Inkscape**  
-
 ---
 
-
-## Método 1: Usando a Ferramenta Elipse
+## Método Único: Usando a Ferramenta Elipse
 - Selecionar a ferramenta `Elipse`:  
    - `E` ou `clique no ícone do círculo na barra de ferramentas`
 

@@ -12,10 +12,6 @@
 ### Escolher a ferramenta Pincel
 - **`P`** ou `clique no ícone do pincel`
 
-### Ativar **Barra de Pinceis Pré-definidos
-- Se a barra "Pincéis" não estiver visível:
-   - `Menu Janelas` > `Diálogos de Encaixe` > `Pincéis`
-
 ### Ativar Janela de Opções da Ferramenta
 - Se a barra "Opções de Ferramenta" não estiver visível:
     - `Menu Janelas` > `Diálogos de Encaixe` > `Opções de Ferramentas`
@@ -32,7 +28,7 @@
 
 ---  
 
-## Método 2: Usando a Ferramenta Lápis (Para Pontos Pixelizados)
+## Método 2: Usando a Ferramenta Lápis
 
 ### Selecionar uma Cor  
 - Na **Caixa de Ferramentas**:
