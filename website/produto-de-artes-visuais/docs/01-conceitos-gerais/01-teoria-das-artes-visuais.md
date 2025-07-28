@@ -38,7 +38,8 @@
 
 ### 3. Expressão Abstrata dos elementos artísticos
 - Forma de expressão artística que se afasta da imitação fiel da realidade.
-    - Afasta-se do figurativismo e o e nega.
+    - Afasta-se do figurativismo
+    - Nega veementemente o uso do figurativismo.
 - Prioriza:
     - formas
     - cores
@@ -122,7 +123,7 @@
 - Ilusão de profundidade devido disposição dos elementos no plano.
 
 ### Textura
-– Qualidade superficial (lisa, áspera, granulada)
+- Qualidade superficial (lisa, áspera, granulada)
 - Gráfica/visual
 - Tátil
 
@@ -138,14 +139,16 @@
 ---  
   
 ## Elementos Conceituais Relacionais
-- Posição
+- Posição:
     - Em relação a um sistema de referências.
-- Direção
+- Direção:
     - Em relação a um plano referenciado.
-- Espaço
+- Sentido da direção:
+    - Em relação a um plano referenciado e a uma linha orientada.
+- Espaço:
     - Em relação ao observador.
-- Gravidade
-    - Em relação à posição que serve como polo magnético.
+- Gravidade:
+    - Em relação à posição que serve como polo magnético, no espaço.
   
 ---  
   
@@ -176,11 +179,14 @@
         - elementos com unidade harmônica ou
         - elementos sem unidade harmônica.
     - Ritmo
-        - elementos com ou sem repetição de padrões.
+        - elementos com repetição de padrões ou
+        - elementos sem repetição de padrões.
     - Proporção
-        - elementos com ou sem relação percetiva com a proporção do todo.
+        - elementos com relação proporcional percetível pelo visualizador ou
+        - elementos sem relação proporcional percetível pelo visualizador.
     - Perspectiva
-        - imagem com ou sem ilusão de profundidade.
+        - imagem com ilusão perpectiva de profundidade ou
+        - imagem sem ilusão perpectiva de profundidade.
 
 ## Leis da Gestalt (psicologia da forma)
 - Lei da Proximidade:
@@ -209,35 +215,3 @@
     - Segregamos para ver a parte como uma unidade independente mas integrada.
 - Unificação
     - Juntamos para entender juntos.
-
-## Categorias Conceituais Fundamentais em uma obra de arte
-- Harmonia e Desarmonia
-- Equilíbrio e Desequilíbrio
-- Contraste
-
-## Técnicas Visuais Aplicadas
-- Clareza
-- Simplicidade
-- Minimalidade
-- Complexidade
-- Profusão
-- Coerência
-- Incoerência
-- Exageração
-- Sutileza
-- Arredondamento
-- Distorção
-- Sequencialidade
-- Correção Óptica
-- Ruído Visual
-- Transparência Física
-- Transparência Visual
-- Opacidade
-- Difusidade
-- Redundância
-- Fragmentação
-- Profundidade
-- Superficialidade
-- Ambiguidade
-- Espontaneidade
-- Aleatoriedade

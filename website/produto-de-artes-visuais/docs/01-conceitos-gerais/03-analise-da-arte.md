@@ -6,7 +6,38 @@
 - Como os pensamentos sobre arte tomam forma na produção de uma obra de arte?
 
 ## Aspectos Concretos da Análise
-- 1
+
+### Categorias Conceituais Fundamentais em uma obra de arte
+- Harmonia e Desarmonia
+- Equilíbrio e Desequilíbrio
+- Contraste
+
+### Técnicas Visuais Aplicadas
+- Clareza
+- Simplicidade
+- Minimalidade
+- Complexidade
+- Profusão
+- Coerência
+- Incoerência
+- Exageração
+- Sutileza
+- Arredondamento
+- Distorção
+- Sequencialidade
+- Correção Óptica
+- Ruído Visual
+- Transparência Física
+- Transparência Visual
+- Opacidade
+- Difusidade
+- Redundância
+- Fragmentação
+- Profundidade
+- Superficialidade
+- Ambiguidade
+- Espontaneidade
+- Aleatoriedade
 
 ## Aspectos Concretos da Crítica
 - 2
