@@ -148,26 +148,62 @@
 - Critica os teóricos atuais para que percebam a arte de forma diferente.
 
 ### Futurismo
+- Fundação e Manifesto do Futurismo
+    - Toda imitação devem ser desprezadas.
+    - E todas formas de originalidade devem ser glorificadas.
 
 ### Neoplasticismo
+- Piet Modrian
+    - P Princípio Geral da Equivalência Plástica
+    - A arte é expressão plástica de nossa emoção estética.
+        - Mas não é apenas uma expressão estética de nossa subjetividade. Há também uma lógica na produção de arte.
 
 ### Dada
+- O novo pintor cria um mundo cujos elementos também são os meios.
+- O novo artista protesta.
+- Cria diretamente em pedra.
+- O plasticismo é inútil (fábula real).
 
 ### Surrealismo
+- Automatismo psíquico puro que representa o fundamento real do pensamento.
+- Sem exigência técnica para expressar o pensamento.
 
 ### Expressionismo abstrato
+- Saída de artistas para os EUA.
+- Bebe da fonte do surrealismo.
+    - Mas usa pintura direta.
+    - Trabalha com o inconsciente e o automatismo.
+- Jackson Pollock
+    - Quero expressar meus sentimentos e não ilustrá-lo.
 
 ## Teorias Formalistas
 
 ### Crítico de Arte: Clive Bell
+- Primeiro formulador da teoria
+- As teorizações de cunho formalista datam das primeiras décadas do século XX, introduzidas pelos críticos britânicos Clive Bell e Roger Fry, entre 1909 e 1912, a propósito das primeiras exposições de artistas pós-impressionistas franceses na Inglaterra.
+- Forma significante que suscita emoções estéticas. Propriedade comum a todas as reais obras de arte visual.
 
 ### Crítico de Arte: Clement Greenberg
+- Alto Modernismo dos Estados Unidos
+- Muito conhecido
+- A ascensão de Clement Greenberg no cenário modernista corresponde ao período de entrada dos Estados Unidos no cenário das artes, em virtude do sombrio panorama europeu, durante a Segunda Guerra Mundial, e que culmina com a derrocada de Paris, sob o domínio alemão. 
+- A cidade de Nova York – destino, sobretudo, de artistas e intelectuais em exílio, desde o período entreguerras – torna-se o novo centro irradiador da chamada alta modernidade: ali, floresce o formalismo.
+- Percebe o surrealismo como uma tendência reacionária e seria um retorno do figurativismo.
 
 ## Outros critérios:
 - Crítico de Arte: Leo Steinberg
+- O texto Outros critérios, de Leo Steinberg, crítico russo baseado em Nova York nos anos 1930, consiste numa forte crítica à teoria formalista de Clement Greenberg.
+- Dotado de extrema erudição, Steinberg problematiza aquilo que considera, entre outros intelectuais, uma simplificação crítica produzida pela teoria formalista.
+- Nesse sentido, Steinberg propõe uma análise mais abrangente das obras e que não descarte de antemão certos aspectos, mesmo que incompreensíveis à primeira vista. 
+- Steinberg lança, de fato, uma dúvida filosófica: como nos preparamos para apreender aquilo que nunca foi visto?
+- Transformação no plano do quadro.
+    - Inverte a posição do quadro.
 
 ## Teoria da Vanguarda
 - Peter Bürger
+- As reflexões de Peter Bürger, escritas na década de 1970, não cessaram de produzir seus efeitos no debate sobre as artes na contemporaneidade, ou seja, sobre a arte produzida nos dias de hoje. Sua teoria lança luz sobre uma estrutura que permanece invisível para muitos: a ''instituição arte'' e sua capacidade de absorver mesmo os ataques mais contundentes contra ela própria, transformando em arte os exemplares mais belicosos da chamada antiarte.
+- Reabilitação da noção de fracasso. Reconhece o fracasso, mas o vê como complexo e cheio de incongruências. 
+- Busca esta nova forma de entender a arte, depois da morte da arte.
 
 ## Século XX - Anos 70, no Brasil
 ### Manifesto Ruptura (1952)
